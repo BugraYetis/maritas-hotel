@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Maritaş Denim
+# 👖 Maritaş Denim
 
 **Kurumsal Site · Tekstil Kurumsal**
 
